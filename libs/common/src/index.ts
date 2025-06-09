@@ -1,2 +1,2 @@
-export * from './common.module';
-export * from './common.service';
+export { DatabaseModule } from './database/database.module';
+export { ConfigModule } from './config/config.module';
